@@ -1,4 +1,4 @@
-function Get-ClusterIPResources
+function Get-ClusterIPAddressResource
 {
     [CmdletBinding()]
     [Alias()]
